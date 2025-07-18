@@ -1,7 +1,7 @@
 # 🧠 diabetes-prediction-ml  
 **Mini-projet IA santé – Prédiction du diabète avec Machine Learning**
 
-🎯 Objectif  
+## 🎯 Objectif  
 Utiliser un algorithme de machine learning pour prédire si une personne est susceptible de développer un diabète, à partir de **données médicales simples** :  
 - Âge  
 - IMC (Indice de Masse Corporelle)  
@@ -10,7 +10,7 @@ Utiliser un algorithme de machine learning pour prédire si une personne est sus
 - Nombre de grossesses, etc.
 
 Ce projet est conçu comme un **exercice pratique de machine learning appliqué à la santé**, avec une approche pédagogique.
-🧪 Données utilisées
+## 🧪 Données utilisées
 - 📊 **Dataset** : Pima Indians Diabetes Database  
 - 📥 **Source** : [Kaggle - Pima Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
 - 📌 **Taille** : 768 observations × 9 variables (8 entrées + 1 sortie)
