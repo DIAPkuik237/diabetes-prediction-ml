@@ -73,7 +73,7 @@ Par exemple, on observe que :
 
 🎥 Vidéo explicative (à venir)
 
-💡 Limites & éthique
+## 💡 Limites & éthique
 Ce modèle est **pédagogique**, basé sur un petit dataset, et **ne remplace pas un diagnostic médical**. Il illustre comment l'IA peut aider à **détecter des risques** et **assister le personnel médical**.
 
 👨‍🔬 Projet réalisé par :
