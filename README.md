@@ -40,7 +40,10 @@ Ce projet est conçu comme un **exercice pratique de machine learning appliqué 
 | Régression Logistique| 70 %     | Simple, linéaire, facile à interpréter |
 | Random Forest        | 78 %     | Plus performant, plus robuste          |
 
-📊 Visualisation
+## 📊 Visualisation
+
+### 🔥 Corrélation entre variables (heatmap)
+![heatmap](heatmap.png)
 
 🔥 Corrélation entre variables (heatmap)
 [heatmap](heatmap.png)
