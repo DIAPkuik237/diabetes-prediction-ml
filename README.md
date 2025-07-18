@@ -74,6 +74,6 @@ Par exemple, on observe que :
 Ce modèle est **pédagogique**, basé sur un petit dataset, et **ne remplace pas un diagnostic médical**. Il illustre comment l'IA peut aider à **détecter des risques** et **assister le personnel médical**.
 
 ## 👨‍🔬 Projet réalisé par :
-Franck – autodidacte en IA, fondateur de la chaîne [DIAP ∀](#)  
+Franck KOUEKAM – autodidacte en IA, fondateur de la chaîne [DIAP ∀](#)  
 
 
