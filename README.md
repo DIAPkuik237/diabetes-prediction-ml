@@ -1,12 +1,33 @@
-diabetes-prediction-ml
-Mini-projet IA santé – prédiction du diabète avec Machine Learning
+# 🧠 diabetes-prediction-ml  
+**Mini-projet IA santé – Prédiction du diabète avec Machine Learning**
 
-🎯 Objectif
-Utiliser un algorithme de machine learning pour prédire si une personne est susceptible de développer un diabète, à partir de données médicales simples (âge, IMC, glycémie...).
+🎯 Objectif  
+Utiliser un algorithme de machine learning pour prédire si une personne est susceptible de développer un diabète, à partir de **données médicales simples** :  
+- Âge  
+- IMC (Indice de Masse Corporelle)  
+- Glycémie  
+- Pression artérielle  
+- Nombre de grossesses, etc.
 
+Ce projet est conçu comme un **exercice pratique de machine learning appliqué à la santé**, avec une approche pédagogique.
 🧪 Données utilisées
-- **Dataset** : Pima Indians Diabetes Database  
-- 📥 Source : [Kaggle - Pima Diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- 📊 **Dataset** : Pima Indians Diabetes Database  
+- 📥 **Source** : [Kaggle - Pima Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
+- 📌 **Taille** : 768 observations × 9 variables (8 entrées + 1 sortie)
+
+**Variables** :  
+| Nom                      | Description                                 |
+|--------------------------|---------------------------------------------|
+| Pregnancies              | Nombre de grossesses                        |
+| Glucose                  | Taux de glucose dans le sang                |
+| BloodPressure            | Pression artérielle                         |
+| SkinThickness            | Épaisseur du pli cutané triceps (mm)        |
+| Insulin                  | Taux d'insuline                             |
+| BMI                      | Indice de masse corporelle                  |
+| DiabetesPedigreeFunction | Antécédents familiaux de diabète            |
+| Age                      | Âge en années                               |
+| Outcome                  | 1 = diabétique, 0 = non diabétique          |
+
 
 🛠️ Outils et bibliothèques
 - Python (Google Colab)
