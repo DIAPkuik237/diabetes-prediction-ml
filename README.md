@@ -48,6 +48,16 @@ Ce projet est conçu comme un **exercice pratique de machine learning appliqué 
 🔥 Corrélation entre variables (heatmap)
 [heatmap](heatmap.png)
 
+La heatmap ci-dessous représente la **matrice de corrélation** du dataset.  
+Elle indique comment chaque variable est liée aux autres.  
+- Une valeur proche de **+1** (en rouge) signifie une **corrélation positive forte**  
+- Une valeur proche de **-1** (en bleu foncé) signifie une **corrélation négative forte**  
+- Une valeur proche de **0** signifie **peu ou pas de corrélation**
+
+Par exemple, on observe que :
+- `Glucose` est fortement corrélé avec l'**Outcome** (diagnostic diabète)
+- `BMI` et `Age` ont aussi une influence modérée
+
 🧬 Variables les plus importantes (selon Random Forest)
 - Glucose
 - BMI (IMC)
