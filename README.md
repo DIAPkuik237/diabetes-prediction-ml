@@ -1,4 +1,4 @@
-# 🧠 diabetes-prediction-ml  
+# 🧠 Diabetes-prediction-ml  
 **Mini-projet IA santé – Prédiction du diabète avec Machine Learning**
 
 ## 🎯 Objectif  
